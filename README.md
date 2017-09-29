@@ -26,7 +26,7 @@ and execute the findSets file.
 - Read Graph and multiply by K2. (Cartesian Product)
 - Read Graph using Adjancy Matrix.
 - Generate a random Graph.
-- Print Alpha and I of all graphs tested.
+- Print Alpha and I of all graphs read, and which M_i the grapph belongs to.
 
 ## Version in Development
 
