@@ -1,10 +1,24 @@
-# Find_IndSets
-An algorithm developed by me to find all independent maximal sets of a graph.
+# FindSets
 
+An algorithm developed by me to find all independent maximal sets of a graph.
 
 ## Instructions
 
+### Basics
+
 Given a graph, by entering its cordinates the program returns all sizes of alpha(G), i(G) and which M the graph belongs to. 
+
+To see the sets uncomment the line 253.
+
+### Compiling
+
+In the directory, on the terminal.
+
+./compile_findsets.sh
+
+and execute the fileSets file.
+
+./findSets
 
 ## Version 1.5 | Options 
 
@@ -13,3 +27,7 @@ Given a graph, by entering its cordinates the program returns all sizes of alpha
 - Read Graph using Adjancy Matrix.
 - Generate a random Graph.
 - Print Alpha and I of all graphs tested.
+
+## Version in Development
+
+Any bug or problem, please report.
