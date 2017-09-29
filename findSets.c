@@ -449,7 +449,7 @@ void menu(){
     printf("2 - Read Graph and multiply by K2. (Cartesian Product)\n");
     printf("3 - Read Graph using Adjancy Matrix.\n");
     printf("4 - Generate a random Graph.\n");
-    printf("5 - Print Alpha and I of all graphs tested.\n");
+    printf("5 - Print Alpha and I of all graphs read, and which M_i the grapph belongs to.\n");
     printf("0 - Exit\n");
     printf("\n\n");
 }
