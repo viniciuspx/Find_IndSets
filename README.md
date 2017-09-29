@@ -6,7 +6,7 @@ An algorithm developed by me to find all independent maximal sets of a graph.
 
 ### Basics
 
-Given a graph, by entering its cordinates or adjancency matrix, the program returns all sizes of alpha(G), i(G) and which M the graph belongs to. Select the option to read, to print the iformation regarding the graphs select the option to print. You can read more than one graphs.
+Given a graph, by entering its cordinates or adjancency matrix, the program returns all sizes of alpha(G), i(G) and which M the graph belongs to. Select the option to read, to print the information regarding the graphs select the option to print. You can read more than one graphs.
 
 To see the sets uncomment the line 253.
 
