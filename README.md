@@ -12,7 +12,7 @@ To see the sets uncomment the line 253.
 
 ### Compiling
 
-In the directory, on the terminal.
+In the directory.
 
 ./compile_findsets.sh
 
